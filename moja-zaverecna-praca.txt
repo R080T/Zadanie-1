@@ -1,0 +1,8 @@
+Štandardy pri tvorbe nových webov
+
+Pomocou adaptívneho a responzívneho dizajnu vieme prispôsobovať obsah stránky veľkosti obrazovky na výstupnom zariadení. Adaptívnym dizajnom sa stránka prispôsobí presné rozmery zariadení. Adaptívnym dizajnmon vieme webstránku plynule prispôsobiť obrazovke zariadenia. Často sa môžeme stretnúť aj s kombináciou oboch dizajnov.
+Cieľ práce: tvorba responzívneho webu so zameraním na kempingovú turistiku
+Požiadavky na obsah podľa charakteru práce: aplikačná - popis riešeného problému, návrh softvéru (modely, ..), metodika vývoja, implementácia, popis vytvoreného softvéru, testovanie.
+Požiadavky na vedomosti a zručnosti študenta: pokročilé vedomosti pri tvorbe stránok s responzívnym dizajnom, schopnosť študovať anglické zdroje
+
+2021
